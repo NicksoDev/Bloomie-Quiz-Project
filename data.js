@@ -133,188 +133,188 @@ const flowerData = {
     head: '"อบอุ่น เปิดใจง่าย แต่เปราะบางในบางครั้ง"',
     description:
       "คุณคือคนที่เปิดใจง่าย อบอุ่น และมักเป็นที่พักใจของคนรอบข้าง แต่ภายในอาจเปราะบาง ต้องการพื้นที่ปลอดภัยในการแสดงความรู้สึกแท้จริง ชอบมอบพลังบวกให้คนอื่นแม้บางครั้งจะเหนื่อยเอง",
-    image: "/img/hibiscus.png"
+    image: "img/hibiscus.png"
   },
   "Sunflower": {
     title: "You are a Sunflower",
     head: '"แสงแดดแห่งความสุขและแรงบันดาลใจ"',
     description:
       "คุณคือแสงแดดของทุกวงสนทนา — สดใส มีพลังดึงดูด และเชื่อในความฝันของตัวเอง มักเป็นแรงบันดาลใจให้คนอื่น แต่ก็ต้องระวังอย่าให้ความเข้มแข็งกลบความรู้สึกที่แท้จริงภายในใจ",
-    image: "/img/sunflower.png"
+    image: "img/sunflower.png"
   },
   "Cherryblossom": {
     title: "You are a Cherryblossom",
     head: '"อ่อนโยน เข้าใจชีวิต และรู้คุณค่าของการเปลี่ยนแปลง"',
     description:
       "คุณรักความงาม ความละเอียดอ่อน และเข้าใจการเปลี่ยนแปลงของชีวิตดี ไม่ยึดติดกับสิ่งใดเกินไป มองโลกอย่างอ่อนโยนแต่มีขอบเขตในแบบของตัวเอง",
-    image: "/img/cherryblossom.png"
+    image: "img/cherryblossom.png"
   },
   "Daisy": {
     title: "You are a Daisy",
     head: '"ซื่อสัตย์ อ่อนโยน และจริงใจต่อทุกคน"',
     description:
       "เป็นคนซื่อสัตย์ อ่อนโยน และพร้อมรับฟังผู้อื่นโดยไม่ตัดสิน คุณเชื่อในความเรียบง่ายและความจริงใจ และมักนำพาความสบายใจไปยังผู้คนรอบตัว",
-    image: "/img/daisy.png"
+    image: "img/daisy.png"
   },
   "Red Rose": {
     title: "You are a Red Rose",
     head: '"โรแมนติกและมั่นคงในความรัก"',
     description:
       "คุณเป็นคนโรแมนติก มีความรักที่ลึกซึ้งและมั่นคง เชื่อในความสัมพันธ์ที่จริงใจ และกล้าแสดงออกต่อความรู้สึกของตนเอง มีเสน่ห์ที่ผสมระหว่างความเข้มแข็งกับอารมณ์อ่อนไหว",
-    image: "/img/redrose.png"
+    image: "img/redrose.png"
   },
   "Tulip": {
     title: "You are a Tulip",
     head: '"เรียบง่าย แต่เต็มไปด้วยความอบอุ่นและจริงใจ"',
     description:
       "คุณซื่อตรง จริงใจ และมีหัวใจมั่นคง รักคือสิ่งบริสุทธิ์สำหรับคุณ แม้ภายนอกจะเรียบง่าย แต่ภายในกลับเต็มไปด้วยความอบอุ่นที่พร้อมมอบให้คนที่ไว้ใจ",
-    image: "/img/tulip.png"
+    image: "img/tulip.png"
   },
   "White Rose": {
     title: "You are a White Rose",
     head: '"สงบ สุขุม และรักอย่างบริสุทธิ์"',
     description:
       "ภายนอกอาจดูนิ่งและสุขุม แต่ในใจอ่อนไหว ละเมียด และมีความรักที่บริสุทธิ์ คุณมักไม่เปิดใจง่าย แต่เมื่อรักแล้วจะดูแลด้วยความซื่อสัตย์ลึกซึ้ง",
-    image: "/img/whiterose.png"
+    image: "img/whiterose.png"
   },
   "Peony": {
     title: "You are a Peony",
     head: '"สง่างาม ภาคภูมิใจ และมั่นใจในคุณค่า"',
     description:
       "คุณภาคภูมิใจในตัวเอง รู้คุณค่าของความพยายาม และไม่ยอมลดมาตรฐานเพื่อใคร เป็นคนละเอียดและรักในความสง่างามของชีวิต",
-    image: "/img/peony.png"
+    image: "img/peony.png"
   },
   "Chamomile": {
     title: "You are a Chamomile",
     head: '"อ่อนโยน เยียวยาใจคนรอบข้าง"',
     description:
       "คุณใจดี อ่อนโยน และมักดูแลความรู้สึกคนอื่นก่อนตัวเอง เป็นคนที่มีพลังสงบที่ยู่อย่างเข้าใจและเยียวยาผู้อื่นได้โดยไม่รู้ตัว",
-    image: "/img/chamomile.png"
+    image: "img/chamomile.png"
   },
   "Jasmine": {
     title: "You are a Jasmine",
     head: '"สงบ อ่อนโยน แต่มั่นคง"',
     description:
       "คุณอบอุ่นแต่เด็ดเดี่ยว มีความสงบในตัวเอง และสามารถยืนหยัดได้แม้ในสถานการณ์ยากลำบาก มีหัวใจที่มั่นคงและพร้อมปกป้องคนที่รัก",
-    image: "/img/jasmine.png"
+    image: "img/jasmine.png"
   },
   "Carnation": {
     title: "You are a Carnation",
     head: '"ทุ่มเท เข้าใจความผูกพัน"',
     description:
       "คุณให้ความสำคัญกับความสัมพันธ์และความผูกพันมากกว่าสิ่งใด มักทุ่มเทให้คนที่รักและคอยประคับประคองความรู้สึกของผู้อื่นอย่างเข้าใจ",
-    image: "/img/carnation.png"
+    image: "img/carnation.png"
   },
   "Lavender": {
     title: "You are a Lavender",
     head: '"เงียบ สงบ แต่ลึกซึ้งและมีเสน่ห์"',
     description:
       "คุณดูเงียบแต่มีเสน่ห์ลึกซึ้ง ชอบอยู่กับความสงบ มีมุมศิลป์ในใจ และเข้าใจโลกในแบบที่ไม่ต้องพูดมาก แค่การอยู่ข้าง ๆ คุณก็นำความผ่อนคลายมาให้คนอื่นได้",
-    image: "/img/lavender.png"
+    image: "img/lavender.png"
   },
   "Lilac": {
     title: "You are a Lilac",
     head: '"อ่อนไหว มีจิตใจศิลปิน และโรแมนติก"',
     description:
       "คุณเป็นคนอ่อนไหว มีจิตใจศิลปิน และมักมองโลกในมุมโรแมนติก ชื่นชอบความงามในสิ่งเล็ก ๆ รอบตัวและต้องการความเข้าใจมากกว่าคำตัดสิน",
-    image: "/img/lilac.png"
+    image: "img/lilac.png"
   },
   "Large Peony": {
     title: "You are a Large Peony",
     head: '"ละเอียด รอบคอบ และสง่างาม"',
     description:
       "คุณละเอียด รอบคอบ แต่ก็เปี่ยมไปด้วยพลังและศักดิ์ศรี มีเป้าหมายใหญ่ในชีวิต และไม่กลัวที่จะลงมือทำอย่างมีระบบและสง่างาม",
-    image: "/img/largepeony.png"
+    image: "img/largepeony.png"
   },
   "Hydrangea": {
     title: "You are a Hydrangea",
     head: '"อ่อนไหวแต่แข็งแกร่ง เข้าใจอารมณ์ของตนเอง"',
     description:
       "คุณมีหลายมิติของอารมณ์ — อ่อนไหวแต่แข็งแรง รักในความลึกซึ้งแต่บางครั้งอาจเปลี่ยนไปตามสถานการณ์ คุณเข้าใจว่าชีวิตไม่จำเป็นต้องนิ่งเสมอไป",
-    image: "/img/hydrangea.png"
+    image: "img/hydrangea.png"
   },
   "Forget-me-not": {
     title: "You are a Forget-me-not",
     head: '"ภักดีและจดจำสิ่งดี ๆ เสมอ"',
     description:
       "คุณคือคนที่ภักดีและจดจำเรื่องราวดี ๆ ได้เสมอ รักของคุณมั่นคงและยาวนาน ชอบสร้างความทรงจำที่มีคุณค่ากับคนที่อยู่ในใจ",
-    image: "/img/forgetmenot.png"
+    image: "img/forgetmenot.png"
   },
   "White Lily": {
     title: "You are a White Lily",
     head: '"สงบ เรียบง่าย และมั่นคงในจิตใจ"',
     description:
       "คุณสงบ สุขุม และมั่นคงในจิตใจ มีความเรียบง่ายแต่ลึกซึ้ง รู้ว่าความสุขแท้จริงคือการเข้าใจตัวเองและใช้ชีวิตอย่างมีสมดุล",
-    image: "/img/whitelily.png"
+    image: "img/whitelily.png"
   },
   "Iris": {
     title: "You are a Iris",
     head: '"ซื่อตรง มีโลกภายในลึกซึ้ง"',
     description:
       "คุณมีความซื่อสัตย์แต่ไม่เปิดเผยทุกสิ่ง เก็บงำความรู้สึกได้ดีและเลือกที่จะพูดเฉพาะเมื่อจำเป็น เป็นคนที่คิดลึกและมีโลกภายในอันซับซ้อน",
-    image: "/img/iris.png"
+    image: "img/iris.png"
   },
   "Wild Sunflower": {
     title: "You are a Wild Sunflower",
     head: '"รักอิสระและมีพลังแห่งการผจญภัย"',
     description:
       "คุณรักอิสระ ชอบผจญภัย และมองโลกในแง่ดี ชอบสำรวจสิ่งใหม่และไม่กลัวการเปลี่ยนแปลง มีความเป็นผู้นำโดยธรรมชาติ",
-    image: "/img/wildsunflower.png"
+    image: "img/wildsunflower.png"
   },
   "Poppy": {
     title: "You are a Poppy",
     head: '"กล้าหาญและแตกต่าง"',
     description:
       "คุณกล้าหาญและมีเสน่ห์ในแบบของตัวเอง ไม่กลัวที่จะโดดเด่นหรือแตกต่าง รู้จักใช้พลังของความมั่นใจเพื่อสร้างแรงบันดาลใจให้ผู้อื่น",
-    image: "/img/poppy.png"
+    image: "img/poppy.png"
   },
   "Bougainvillea": {
     title: "You are a Bougainvillea",
     head: '"ยืดหยุ่นและสดใสในทุกสถานการณ์"',
     description:
       "คุณยืดหยุ่น ปรับตัวเก่ง และมีความสามารถในการรักษาความกลมกลืนในทุกสถานการณ์ แม้เจอปัญหาก็ยังหาทางยิ้มได้เสมอ",
-    image: "/img/bougainvillea.png"
+    image: "img/bougainvillea.png"
   },
   "Pink Lily": {
     title: "You are a Pink Lily",
     head: '"อ่อนโยนแต่มั่นใจในตัวเอง"',
     description:
       "คุณฝันไกล มีอุดมคติแต่ก็รู้ขอบเขตของตนเอง เป็นคนอ่อนโยนแต่ไม่อ่อนแอ รู้จักรักตัวเองและมอบความรักอย่างมีวุฒิภาวะ",
-    image: "/img/pinklily.png"
+    image: "img/pinklily.png"
   },
   "Chrysanthemum": {
     title: "You are a Chrysanthemum",
     head: '"มีเหตุผล รอบคอบ และมั่นคง"',
     description:
       "คุณรอบคอบ มีเหตุผล และวางแผนก่อนลงมือเสมอ เป็นคนที่ใครก็ไว้ใจได้เพราะคุณไม่หวั่นไหวตามอารมณ์",
-    image: "/img/chrysanthemum.png"
+    image: "img/chrysanthemum.png"
   },
   "Margaret": {
     title: "You are a Margaret",
     head: '"อ่อนโยนแต่มั่นใจในเส้นทางของตน"',
     description:
       "คุณอ่อนโยนแต่มั่นใจในเส้นทางของตัวเอง รู้จักประนีประนอมแต่ไม่ยอมเสียตัวตน มีเสน่ห์แบบธรรมชาติที่ใครก็เข้าถึงได้ง่าย",
-    image: "/img/margaret.png"
+    image: "img/margaret.png"
   },
   "Violet": {
     title: "You are a Violet",
     head: '"ลึกซึ้ง เข้าใจโลกและความรู้สึกของผู้อื่น"',
     description:
       "คุณลึกซึ้ง มีจิตใจเข้าใจโลกและผู้อื่นอย่างแท้จริง มักเก็บความรู้สึกไว้ภายใน แต่เมื่อพูดออกมาจะตรงและมีความหมาย",
-    image: "/img/violet.png"
+    image: "img/violet.png"
   },
   "Cornflower": {
     title: "You are a Cornflower",
     head: '"เป็นมิตรแต่มีจุดยืน"',
     description:
       "คุณเป็นมิตร เข้ากับคนง่าย แต่ก็มีจุดยืนชัดเจน รู้ว่าควรเปิดใจแค่ไหนและกับใคร เป็นคนที่รักษาสมดุลระหว่าง “เข้าใจคนอื่น” และ “ไม่หลงตัวเอง” ได้ดี",
-    image: "/img/cornflower.png"
+    image: "img/cornflower.png"
   },
   "Delphinium": {
     title: "You are a Delphinium",
     head: '"ใฝ่หาความหมายในชีวิต"',
     description:
       "คุณใฝ่หาความหมายในชีวิต ชอบตั้งคำถามเชิงลึกเกี่ยวกับโลกและตัวเอง มีหัวใจของนักฝันที่อยากใช้ชีวิตให้มีคุณค่าและไม่หยุดพัฒนา",
-    image: "/img/delphinium.png"
+    image: "img/delphinium.png"
   }
 };
